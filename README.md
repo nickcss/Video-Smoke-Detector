@@ -8,7 +8,7 @@ The program is based on the tensorflow retraining tutorial for flower recognitio
 www.tensorflow.org/tutorials/image_retraining
 
 
-###Usage:
+### Usage:
 
 **SOURCE_FILES** is a list of videos need to be analyzed.
 
@@ -20,6 +20,6 @@ The original videos' audio tracks will be stripped from the output videos.
 
 
 
-####Author: Chen-Yi Liu
+#### Author: Chen-Yi Liu
 
-####Date: September 3, 2017
+#### Date: September 3, 2017
