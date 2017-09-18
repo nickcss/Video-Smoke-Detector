@@ -21,5 +21,4 @@ The original videos' audio tracks will be stripped from the output videos.
 
 
 #### Author: Chen-Yi Liu
-
 #### Date: September 3, 2017
