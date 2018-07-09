@@ -18,7 +18,7 @@ The original videos' audio tracks will be stripped from the output videos.
 
 ![Sample result 2](https://github.com/chenyi731231/Video-Smoke-Detector/blob/master/sample2.png)
 
-The result videos can be viewed on YouTube.
+Examples of analyzed videos can be viewed on YouTube.
 
 <a href="https://www.youtube.com/watch?v=LekBzCjBpww
 " target="_blank"><img src="http://img.youtube.com/vi/LekBzCjBpww/0.jpg" 
