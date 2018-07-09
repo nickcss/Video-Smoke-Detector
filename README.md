@@ -9,16 +9,11 @@ www.tensorflow.org/tutorials/image_retraining
 
 
 ### Usage:
-
-**SOURCE_FILES** is a list of videos need to be analyzed.
-
-**DESTINATION_FILES** is a list of the desired output video file names.
-
-The program overlays the analysis results at the bottom of the screen.
+The program takes in a list of video files and overlays the smoke analysis results as a meter reading at the bottom of the screen.
 The original videos' audio tracks will be stripped from the output videos.
 
+## Examples:
 
 
 
-#### Author: Chen-Yi Liu
-#### Date: September 3, 2017
+
